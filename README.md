@@ -61,7 +61,7 @@ while true: {
 }
 ```
 
-* ## MagNum Sheet
+## MagNum Sheet
 ```
 /*
     Welcome to MagNum, developer 
